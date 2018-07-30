@@ -1,7 +1,9 @@
 https://smart-brain-shakib.herokuapp.com/
 
 the backend of smartbrain project developed using nodejs,expressjs,clarifaiAPI,bcrypt,nodemon,postman
+
 For database: PostgreSQL
+
 # Smartbrain-api
 
 1. Clone this repo
